@@ -395,7 +395,6 @@ class GeoJsonParser {
       holePointsList: holesList,
       borderColor: defaultPolygonBorderColor!,
       color: defaultPolygonFillColor!,
-      isFilled: defaultPolygonIsFilled!,
       borderStrokeWidth: defaultPolygonBorderStroke!,
     );
   }
